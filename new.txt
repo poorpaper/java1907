@@ -3,3 +3,4 @@ aozhoulongxia,diwangxie,baimifan
 github
 linux
 dev add something
+master add other
